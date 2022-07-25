@@ -9,7 +9,7 @@
 
 <p align="center">Consuming OpenWeather API for Weather APP and YouTube Player API for musics.</p>
 <br>
-<p align="center">Music provided by Lofi Girl</p>
+<p align="center">Music provided by Lofi Girl.</p>
 <p align="center">Listen in: <a href="bit.ly/lofigirI-playlists">Lofi Girl Playlists</a></p>
 
 
