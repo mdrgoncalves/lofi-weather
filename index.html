@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- LINKS -->
+    <link rel="stylesheet" href="./css/style.css">
+    <script defer src="https://kit.fontawesome.com/1de4b5b46a.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/png" sizes="16x16"  href="./favicons/sun-icon.jpg">
+
+    <!-- SCRITPS -->
+    <script defer src="./js/key.js"></script>
+    <script defer src="./js/weather.js"></script>
+    <script defer src="./js/greetings.js"></script>
+    <script defer src="https://www.youtube.com/iframe_api"></script>
+    <!-- <script defer src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script> -->
+    <script defer src="./js/music.js"></script>
+
+    <title>Lo-Fi Weather</title>
+</head>
+<body>
+
+    <div class="container-greet"></div>
+    <div class="player">
+        <div data-video="UakHkEFqiGs" data-autoplay="0" data-loop="1" id="youtube-audio"></div>
+        <p>Enjoy a Lo-Fi:</p>
+        <i id="icon-play" class="fa-regular fa-circle-play fa-2xl"></i>
+    </div>
+    
+    <div class="wrapper">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="container">
+            <div class="search-container">
+                <input 
+                    type="text" 
+                    placeholder="Enter a city name" 
+                    id="city" 
+                    value="São Paulo"
+                />
+                <button id="search-btn">Search</button>
+            </div>
+            <div id="result"></div>
+        </div>
+    </div>
+    
+</body>
+</html>
