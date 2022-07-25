@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">See Project here:</p>
-<p align="center"><a href="https://lofiweather.vercel.app" target="blank"><img src="https://img.shields.io/static/v1?label=&message=LOFIWEATHER&color=0088ff&style=for-the-badge&logo=ghost"/></a></p>
+<p align="center"><a href="https://lofiweather.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LOFIWEATHER&color=0088ff&style=for-the-badge&logo=ghost"/></a></p>
 <br>
 
 <p align="center">Consuming OpenWeather API for Weather APP and YouTube Player API for musics.</p>
