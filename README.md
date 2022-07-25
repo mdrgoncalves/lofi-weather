@@ -3,7 +3,7 @@
 <h4 align="center">A page with time Based Dynamic Greetings, Weather App and Lo-Fi Player.</h4>
 <br>
 
-<p align="center">See Project here:</p>
+<p align="center">See Here:</p>
 <p align="center"><a href="https://lofiweather.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LOFIWEATHER&color=0088ff&style=for-the-badge&logo=ghost"/></a></p>
 <br>
 
